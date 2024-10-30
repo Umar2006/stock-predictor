@@ -1,3 +1,20 @@
+
+
+
+# Stock Price Prediction with LSTM Neural Network
+A machine learning project using an LSTM neural network to predict the closing stock price of Apple Inc., based on 60-day historical data. Implemented in Python on Google Colab, this model leverages time series analysis to enhance forecasting accuracy in financial data.
+
+# Features:
+
+Data preprocessing and feature engineering for stock price prediction
+LSTM model implementation and training in TensorFlow
+Visualization of predictions vs. actual prices for performance analysis
+
+
+
+
+
+
 # :earth_americas: GDP dashboard template
 
 A simple Streamlit app showing the GDP of different countries in the world.
