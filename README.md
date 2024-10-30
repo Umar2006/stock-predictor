@@ -6,9 +6,9 @@ A machine learning project using an LSTM neural network to predict the closing s
 
 # Features:
 
-Data preprocessing and feature engineering for stock price prediction
-LSTM model implementation and training in TensorFlow
-Visualization of predictions vs. actual prices for performance analysis
+- Data preprocessing and feature engineering for stock price prediction
+- LSTM model implementation and training in TensorFlow
+- Visualization of predictions vs. actual prices for performance analysis
 
 
 
